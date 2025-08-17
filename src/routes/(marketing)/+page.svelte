@@ -152,11 +152,8 @@
         <a href="https://github.com/dobrocity/stopfires.org">
           <button class="btn btn-primary px-6">★ us on Github</button>
         </a>
-        <a
-          href="https://github.com/dobrocity/stopfires.org/tree/main#saas-starter"
-        >
-          <button class="btn btn-outline btn-primary px-6">Read the Docs</button
-          >
+        <a href="/contact_us">
+          <button class="btn btn-outline btn-primary px-6">Contact us</button>
         </a>
       </div>
     </div>
