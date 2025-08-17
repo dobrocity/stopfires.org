@@ -21,9 +21,9 @@
           class="border border-primary">★ us on Github</a
         >
       </li>
-      <li class="md:mx-2"><a href="/blog">Blog</a></li>
-      <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
-      <li class="md:mx-2"><a href="/account">Account</a></li>
+      <li class="md:mx-2"><a href="/contact_us">Contact us</a></li>
+      <!-- <li class="md:mx-2"><a href="/pricing">Pricing</a></li> -->
+      <!-- <li class="md:mx-2"><a href="/account">Account</a></li> -->
       <li class="md:mx-0">
         <a href="/search" aria-label="Search">
           <svg
@@ -62,9 +62,9 @@
         tabindex="0"
         class="menu menu-lg dropdown-content mt-3 z-1 p-2 shadow-sm bg-base-100 rounded-box w-52 font-bold"
       >
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="/pricing">Pricing</a></li>
-        <li><a href="/account">Account</a></li>
+        <li><a href="/contact_us">Contact us</a></li>
+        <!-- <li><a href="/pricing">Pricing</a></li> -->
+        <!-- <li><a href="/account">Account</a></li> -->
         <li><a href="/search">Search</a></li>
         <li>
           <a
@@ -91,24 +91,18 @@
     <nav>
       <span class="footer-title opacity-80">Explore</span>
       <a class="link link-hover mb-1" href="/">Overview</a>
-      <a class="link link-hover my-1" href="/pricing">Pricing</a>
-      <a class="link link-hover my-1" href="/blog">Blog</a>
-      <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
+      <!-- <a class="link link-hover my-1" href="/pricing">Pricing</a>
+      <a class="link link-hover my-1" href="/blog">Blog</a> -->
+      <!-- <a class="link link-hover my-1" href="/contact_us">Contact Us</a> -->
       <a
         class="link link-hover my-1"
         href="https://github.com/dobrocity/stopfires.org">Github</a
       >
     </nav>
     <aside>
-      <span class="footer-title opacity-80">Sponsor</span>
-      <a class="max-w-[260px]" href="https://getkiln.ai">
-        <div class="font-bold text-3xl mb-1">Kiln AI</div>
-        <div class="font-medium mb-3">Build High Quality AI Products</div>
-        <div class="font-light">
-          Use advanced AI tactics, and collaborate with your team. Free apps for
-          Mac and Windows.
-        </div>
-        <div class="link text-sm font-bold mt-2">Learn More</div>
+      <span class="footer-title opacity-80">Contribute</span>
+      <a class="max-w-[260px]" href="/contact_us">
+        <div class="font-light">Contact us</div>
       </a>
     </aside>
   </footer>

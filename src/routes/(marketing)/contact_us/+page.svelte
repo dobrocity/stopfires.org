@@ -79,17 +79,22 @@
   >
     <div class="px-6">
       <h1 class="text-2xl lg:text-4xl font-bold mb-4">Contact Us</h1>
-      <p class="text-lg">Talk to one of our service professionals to:</p>
+      <p class="text-lg">
+        Join our mission to revolutionize wildfire management:
+      </p>
       <ul class="list-disc list-outside pl-6 py-4 space-y-1">
-        <li class="">Get a live demo</li>
-        <li class="">Discuss your specific needs</li>
-        <li>Get a quote</li>
-        <li>Answer any technical questions you have</li>
+        <li class="">Contribute to the project development</li>
+        <li class="">Support our wildfire prevention efforts</li>
+        <li>Register for workshops and training sessions</li>
+        <li>Get involved in volunteer safety programs</li>
       </ul>
-      <p>Once you complete the form, we'll reach out to you! *</p>
+      <p>
+        Once you complete the form, we'll reach out to you with more information
+        about how you can help!
+      </p>
       <p class="text-sm pt-8">
-        *Not really for this demo page, but you should say something like that
-        😉
+        Together, we can build better wildfire detection and response systems to
+        protect communities and preserve natural resources.
       </p>
     </div>
   </div>

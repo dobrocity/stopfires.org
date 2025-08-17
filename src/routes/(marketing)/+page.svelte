@@ -20,7 +20,6 @@
       name: "Real-time Detection",
       description:
         "AI-powered satellite and sensor network provides instant wildfire detection with precise location data and severity assessment.",
-      link: "/detection",
       linkText: "Learn More",
       svgContent: `<path d="M4.01207 15.7618L5.70156 10.6933C6.46758 8.39525 6.85059 7.24623 7.75684 7.03229C8.6631 6.81835 9.51953 7.67478 11.2324 9.38764L14.6114 12.7666C16.3242 14.4795 17.1807 15.3359 16.9667 16.2422C16.7528 17.1484 15.6038 17.5314 13.3057 18.2975L8.23724 19.987C5.47183 20.9088 4.08912 21.3697 3.35924 20.6398C2.62936 19.9099 3.09026 18.5272 4.01207 15.7618Z" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
 <path d="M12.2351 18.3461C12.2351 18.3461 11.477 16.0649 11.477 14.5552C11.477 13.0454 12.2351 10.7643 12.2351 10.7643M8.06517 19.4833C8.06517 19.4833 7.42484 16.7314 7.307 14.9343C7.11229 11.965 8.06517 7.35254 8.06517 7.35254" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
@@ -35,7 +34,6 @@
     },
     {
       name: "Emergency Response",
-      link: "/response",
       description:
         "Coordinate firefighters, emergency services, and evacuation routes with real-time communication and resource management tools.",
       svgContent: `<path d="M10.5 22V20M14.5 22V20" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
@@ -45,7 +43,6 @@
     },
     {
       name: "Risk Assessment",
-      link: "/assessment",
       description:
         "Advanced algorithms analyze weather patterns, vegetation, and terrain to predict wildfire risk and spread patterns.",
       svgContent: `<path d="M12 6V18" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
@@ -54,7 +51,6 @@
     },
     {
       name: "Community Alerts",
-      link: "/alerts",
       description:
         "Instant notifications to residents, businesses, and authorities with evacuation routes and safety instructions.",
       svgContent: `<path d="M22 10C22.0185 10.7271 22 11.0542 22 12C22 15.7712 22 17.6569 20.8284 18.8284C19.6569 20 17.7712 20 14 20H10C6.22876 20 4.34315 20 3.17157 18.8284C2 17.6569 2 15.7712 2 12C2 8.22876 2 6.34315 3.17157 5.17157C4.34315 4 6.22876 4 10 4H13" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
@@ -63,7 +59,6 @@
     },
     {
       name: "Resource Management",
-      link: "/resources",
       description:
         "Track and deploy firefighting equipment, personnel, and water resources with optimal efficiency and coordination.",
       svgContent: `<path d="M7.5 18C8.32843 18 9 18.6716 9 19.5C9 20.3284 8.32843 21 7.5 21C6.67157 21 6 20.3284 6 19.5C6 18.6716 6.67157 18 7.5 18Z" stroke="#1C274C" stroke-width="1.5"/>
@@ -72,7 +67,6 @@
     },
     {
       name: "Prevention Planning",
-      link: "/prevention",
       description:
         "Develop controlled burns, firebreaks, and vegetation management strategies based on scientific data and risk models.",
       svgContent: `<circle cx="12" cy="12" r="3" stroke="#1C274C" stroke-width="1.5"/>
@@ -80,7 +74,6 @@
     },
     {
       name: "Agency Dashboard",
-      link: "/dashboard",
       description:
         "Centralized command center for government agencies to monitor multiple fires, coordinate resources, and track response efforts.",
       svgContent: `<path d="M3 10C3 6.22876 3 4.34315 4.17157 3.17157C5.34315 2 7.22876 2 11 2H13C16.7712 2 18.6569 2 19.8284 3.17157C21 4.34315 21 6.22876 21 10V14C21 17.7712 21 19.6569 19.8284 20.8284C18.6569 22 16.7712 22 13 22H11C7.22876 22 5.34315 22 4.17157 20.8284C3 19.6569 3 17.7712 3 14V10Z" stroke="#1C274C" stroke-width="1.5"/>
@@ -89,7 +82,6 @@
     },
     {
       name: "Historical Analysis",
-      link: "/analytics",
       description:
         "Comprehensive data analytics on past fire patterns, effectiveness of response strategies, and environmental impact assessment.",
       svgContent: `<path d="M3 22H21" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -179,11 +171,11 @@
         Explore the Features
       </div>
       <div class="mt-4 text-xl font-bold">
-        And try them on this
+        And learn more on our
         <span
           class="underline decoration-secondary decoration-[3px] md:decoration-[4px]"
         >
-          fully functional demo
+          workshops
         </span>
       </div>
     </div>
@@ -284,10 +276,10 @@
       <div class="mt-12">
         <div class="text-2xl md:text-3xl font-bold mb-6">Join Our Mission</div>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="/workshops" class="btn btn-primary btn-lg">
+          <a href="/contact_us" class="btn btn-primary btn-lg">
             Register for Workshops
           </a>
-          <a href="/support" class="btn btn-outline btn-lg">
+          <a href="/contact_us" class="btn btn-outline btn-lg">
             Support the Project
           </a>
         </div>
