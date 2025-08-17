@@ -20,7 +20,7 @@
       name: "Free to host",
       description:
         "Instructions included for Cloudflare+Supabase. Free to start, and cost effective to scale.",
-      link: "https://github.com/CriticalMoments/CMSaasStarter?tab=readme-ov-file#suggested-hosting-stack",
+      link: "https://github.com/dobrocity/stopfires.org?tab=readme-ov-file#suggested-hosting-stack",
       linkText: "Docs",
       newPage: true,
       svgContent: `<path d="M4.01207 15.7618L5.70156 10.6933C6.46758 8.39525 6.85059 7.24623 7.75684 7.03229C8.6631 6.81835 9.51953 7.67478 11.2324 9.38764L14.6114 12.7666C16.3242 14.4795 17.1807 15.3359 16.9667 16.2422C16.7528 17.1484 15.6038 17.5314 13.3057 18.2975L8.23724 19.987C5.47183 20.9088 4.08912 21.3697 3.35924 20.6398C2.62936 19.9099 3.09026 18.5272 4.01207 15.7618Z" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
@@ -120,7 +120,7 @@
     },
     {
       name: "Email",
-      link: "https://github.com/CriticalMoments/CMSaasStarter/blob/main/email_docs.md",
+      link: "https://github.com/dobrocity/stopfires.org/blob/main/email_docs.md",
       linkText: "Docs",
       description: "Send emails to users, including template support.",
       svgContent: `<path d="M22 10C22.0185 10.7271 22 11.0542 22 12C22 15.7712 22 17.6569 20.8284 18.8284C19.6569 20 17.7712 20 14 20H10C6.22876 20 4.34315 20 3.17157 18.8284C2 17.6569 2 15.7712 2 12C2 8.22876 2 6.34315 3.17157 5.17157C4.34315 4 6.22876 4 10 4H13" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
@@ -131,7 +131,7 @@
       name: "Performance",
       newPage: true,
       linkText: "Docs",
-      link: "https://github.com/CriticalMoments/CMSaasStarter?tab=readme-ov-file#performance--best-practices",
+      link: "https://github.com/dobrocity/stopfires.org?tab=readme-ov-file#performance--best-practices",
       description:
         "Pre-rendering. Compiled on deployment to remove unused CSS/JS. Perfect 100/100 Google performance scores.",
       svgContent: `<path d="M5.66953 9.91436L8.73167 5.77133C10.711 3.09327 11.7007 1.75425 12.6241 2.03721C13.5474 2.32018 13.5474 3.96249 13.5474 7.24712V7.55682C13.5474 8.74151 13.5474 9.33386 13.926 9.70541L13.946 9.72466C14.3327 10.0884 14.9492 10.0884 16.1822 10.0884C18.4011 10.0884 19.5106 10.0884 19.8855 10.7613C19.8917 10.7724 19.8977 10.7837 19.9036 10.795C20.2576 11.4784 19.6152 12.3475 18.3304 14.0857L15.2683 18.2287C13.2889 20.9067 12.2992 22.2458 11.3758 21.9628C10.4525 21.6798 10.4525 20.0375 10.4525 16.7528L10.4526 16.4433C10.4526 15.2585 10.4526 14.6662 10.074 14.2946L10.054 14.2754C9.6673 13.9117 9.05079 13.9117 7.81775 13.9117C5.59888 13.9117 4.48945 13.9117 4.1145 13.2387C4.10829 13.2276 4.10225 13.2164 4.09639 13.205C3.74244 12.5217 4.3848 11.6526 5.66953 9.91436Z" stroke="#1C274C" stroke-width="1.5"/>`,
@@ -152,7 +152,7 @@
         "Tools you'll love working with, including SvelteKit, Tailwind, DaisyUI, Postgres, and Supabase.",
       linkText: "Docs",
       newPage: true,
-      link: "https://github.com/CriticalMoments/CMSaasStarter?tab=readme-ov-file#tech-stack",
+      link: "https://github.com/dobrocity/stopfires.org?tab=readme-ov-file#tech-stack",
       svgContent: `<path d="M4.97883 9.68508C2.99294 8.89073 2 8.49355 2 8C2 7.50645 2.99294 7.10927 4.97883 6.31492L7.7873 5.19153C9.77318 4.39718 10.7661 4 12 4C13.2339 4 14.2268 4.39718 16.2127 5.19153L19.0212 6.31492C21.0071 7.10927 22 7.50645 22 8C22 8.49355 21.0071 8.89073 19.0212 9.68508L16.2127 10.8085C14.2268 11.6028 13.2339 12 12 12C10.7661 12 9.77318 11.6028 7.7873 10.8085L4.97883 9.68508Z" stroke="#1C274C" stroke-width="1.5"/>
 <path d="M5.76613 10L4.97883 10.3149C2.99294 11.1093 2 11.5065 2 12C2 12.4935 2.99294 12.8907 4.97883 13.6851L7.7873 14.8085C9.77318 15.6028 10.7661 16 12 16C13.2339 16 14.2268 15.6028 16.2127 14.8085L19.0212 13.6851C21.0071 12.8907 22 12.4935 22 12C22 11.5065 21.0071 11.1093 19.0212 10.3149L18.2339 10" stroke="#1C274C" stroke-width="1.5"/>
 <path d="M5.76613 14L4.97883 14.3149C2.99294 15.1093 2 15.5065 2 16C2 16.4935 2.99294 16.8907 4.97883 17.6851L7.7873 18.8085C9.77318 19.6028 10.7661 20 12 20C13.2339 20 14.2268 19.6028 16.2127 18.8085L19.0212 17.6851C21.0071 16.8907 22 16.4935 22 16C22 15.5065 21.0071 15.1093 19.0212 14.3149L18.2339 14" stroke="#1C274C" stroke-width="1.5"/>`,
@@ -172,7 +172,7 @@
         "Built in linting, type checking, formatting, and test framework. Run locally in your editor, and on Github CI.",
       newPage: true,
       linkText: "Docs",
-      link: "https://github.com/CriticalMoments/CMSaasStarter?tab=readme-ov-file#developer-tools",
+      link: "https://github.com/dobrocity/stopfires.org?tab=readme-ov-file#developer-tools",
       svgContent: `<path d="M7 9C7 9.55228 6.55228 10 6 10C5.44772 10 5 9.55228 5 9C5 8.44772 5.44772 8 6 8C6.55228 8 7 8.44772 7 9Z" fill="#1C274C"/>
 <path d="M7 12C7 12.5523 6.55228 13 6 13C5.44772 13 5 12.5523 5 12C5 11.4477 5.44772 11 6 11C6.55228 11 7 11.4477 7 12Z" fill="#1C274C"/>
 <path d="M10 12C10 12.5523 9.55228 13 9 13C8.44772 13 8 12.5523 8 12C8 11.4477 8.44772 11 9 11C9.55228 11 10 11.4477 10 12Z" fill="#1C274C"/>
@@ -201,7 +201,7 @@
         "Community extensions for internationalization, dark mode theme, and more.",
       linkText: "Docs",
       newPage: true,
-      link: "https://github.com/CriticalMoments/CMSaasStarter?tab=readme-ov-file#community-extensions",
+      link: "https://github.com/dobrocity/stopfires.org?tab=readme-ov-file#community-extensions",
       svgContent: `
       <circle cx="10" cy="6" r="4" stroke="#1C274C" stroke-width="1.5"/>
 <path d="M18 17.5C18 19.9853 18 22 10 22C2 22 2 19.9853 2 17.5C2 15.0147 5.58172 13 10 13C14.4183 13 18 15.0147 18 17.5Z" stroke="currentColor" stroke-width="1.5"/>
@@ -214,7 +214,7 @@
         "With the MIT license, you are free to use, modify, and distribute this template.",
       linkText: "License",
       newPage: true,
-      link: "https://github.com/CriticalMoments/CMSaasStarter/blob/main/LICENSE",
+      link: "https://github.com/dobrocity/stopfires.org/blob/main/LICENSE",
       svgContent: `
 <path d="M0.90625 12.4866C1.01075 6.46069 5.22856 2.1707 10.3917 1.47632C16.551 0.652008 21.732 4.84163 22.7275 10.3994C23.6728 15.6704 20.7757 20.6046 15.9989 22.5599C15.5871 22.7276 15.3616 22.6348 15.2042 22.2161L12.8302 16.0499C12.6948 15.6876 12.7869 15.4621 13.1417 15.3019C14.2162 14.8145 14.8852 13.9984 15.0646 12.8269C15.3472 11.0119 14.0334 9.33651 12.2039 9.17838C10.5381 9.01682 9.03525 10.1773 8.76644 11.8273C8.53337 13.2924 9.25663 14.6564 10.6206 15.2758C11.0469 15.469 11.1328 15.6588 10.9678 16.0926L8.58287 22.3014C8.46806 22.6059 8.21781 22.7139 7.89537 22.5881C5.37844 21.6036 3.31181 19.7233 2.09494 17.3101C0.98875 15.1259 0.978437 13.4182 0.90625 12.4832V12.4866ZM1.83369 12.4014C1.85225 12.6949 1.86188 13.0346 1.89144 13.3824C2.16988 16.5724 4.08937 19.7487 7.70219 21.5066C7.84587 21.5706 7.8995 21.5424 7.95312 21.4069C8.61244 19.6696 9.27794 17.9337 9.94756 16.1964C10.0046 16.0534 9.97575 15.9853 9.84306 15.9028C8.43987 15.018 7.74137 13.7503 7.81975 12.0858C7.86306 11.1295 8.23225 10.288 8.87644 9.58607C10.2047 8.13613 12.2919 7.82057 14.0004 8.80576C15.4111 9.62182 16.1983 11.201 16.0051 12.8201C15.8436 14.1731 15.1499 15.2119 13.9749 15.9138C13.8567 15.9853 13.8209 16.0424 13.8753 16.1813C14.5483 17.922 15.2179 19.6621 15.88 21.4028C15.9343 21.5424 15.9879 21.5706 16.1275 21.5025C17.7067 20.7683 19.0205 19.7157 20.038 18.3125C21.5807 16.1709 22.2181 13.7894 21.9135 11.1687C21.3085 5.9547 16.6177 1.63651 10.5773 2.38176C5.87206 2.95857 1.91206 6.92957 1.833 12.4007L1.83369 12.4014Z" fill="currentColor" stroke="currentColor" stroke-width="0.5" stroke-linecap="round"/>
       `,
@@ -242,53 +242,37 @@
         class="text-4xl md:text-6xl font-bold px-2"
         style="line-height: 1.2;"
       >
-        The
+        Advanced
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >open source</span
+          >wildfire&nbsp;detection</span
         >,
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >fast</span
+          >response</span
         >, and
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >free to host</span
+          >prevention</span
         >
-        <span> SaaS template</span>
+        <span> platform</span>
       </div>
       <div class="mt-6 md:mt-10 text-sm md:text-lg">
-        Built with <a
-          href="https://kit.svelte.dev"
-          class="link font-bold"
-          target="_blank">SvelteKit</a
-        >,
-        <a href="https://supabase.com" class="link font-bold" target="_blank"
-          >Supabase</a
-        >,
-        <a href="https://stripe.com" class="link font-bold" target="_blank"
-          >Stripe</a
-        >,
-        <a href="https://tailwindcss.com" class="link font-bold" target="_blank"
-          >Tailwind</a
-        >,
-        <a href="https://daisyui.com" class="link font-bold" target="_blank"
-          >DaisyUI</a
-        >, and
+        Built with AI,
         <a
-          href="https://www.postgresql.org"
+          href="https://www.openstreetmap.org"
           class="link font-bold"
-          target="_blank">Postgres</a
-        >
+          target="_blank">OpenStreetMap</a
+        >, and various coding tools
       </div>
       <div
         class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center"
       >
-        <a href="https://github.com/CriticalMoments/CMSaasStarter">
+        <a href="https://github.com/dobrocity/stopfires.org">
           <button class="btn btn-primary px-6">★ us on Github</button>
         </a>
         <a
-          href="https://github.com/CriticalMoments/CMSaasStarter/tree/main#saas-starter"
+          href="https://github.com/dobrocity/stopfires.org/tree/main#saas-starter"
         >
           <button class="btn btn-outline btn-primary px-6">Read the Docs</button
           >
@@ -360,71 +344,63 @@
 </div>
 <div class="hero min-h-[60vh] mt-12">
   <div class="hero-content text-center pb-16 pt-4 px-4">
-    <div class="max-w-lg">
+    <div class="max-w-4xl">
       <div
         class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent mt-4 pb-2"
       >
-        See it in Action
+        About the Project
       </div>
-      <div
-        class="flex flex-col lg:flex-row mt-6 gap-6 place-content-center content-center"
-      >
-        <div class="hidden md:block">
-          <a href="https://criticalmoments.io" target="_blank" class="link">
-            <div class="mockup-browser border">
-              <div class="mockup-browser-toolbar">
-                <div class="input" style="background:#eee;">
-                  https://criticalmoments.io
-                </div>
-              </div>
-              <div class="flex justify-center">
-                <img
-                  alt="Screenshot of criticalmoments.io homepage"
-                  class="aspect-2044/1242"
-                  src="/images/example-home.png"
-                />
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="md:hidden">
-          <a href="https://criticalmoments.io" target="_blank" class="link">
-            <div class="card shadow-xl border overflow-hidden">
-              <img
-                alt="Screenshot of criticalmoments.io homepage"
-                class="aspect-2044/1242"
-                src="/images/example-home.png"
-              />
-            </div></a
-          >
-        </div>
-        <div class="min-w-[270px] lg:min-w-[420px] flex mt-6 lg:mt-0">
-          <div class="my-auto">
-            <div class="px-4 text-lg md:text-xl">
-              <a href="https://criticalmoments.io" class="" target="_blank"
-                >SaaS Starter was created by <span
-                  class="font-bold whitespace-nowrap">Critical Moments</span
-                >: a SDK to to help mobile apps
-                <span class="underline decoration-secondary decoration-[3px]"
-                  >increase conversion rates and app-ratings.</span
-                ></a
-              >
-            </div>
-            <div class="px-4 mt-6 text-lg md:text-xl">
-              Our <a
-                href="https://criticalmoments.io"
-                class="link font-bold"
-                target="_blank">webpage</a
-              > is the best example of SaaS Starter with style and real content.
-            </div>
-            <div class="mt-4 text-large">
-              <a href="https://criticalmoments.io" target="_blank">
-                <button class="btn btn-primary btn-wide mt-3"
-                  >See it in Action</button
-                >
-              </a>
-            </div>
+      <div class="text-lg md:text-xl mt-6 mb-8">
+        Our mission is to revolutionize wildfire management through advanced
+        monitoring systems, volunteer safety protocols, and seamless integration
+        with firefighting services to protect communities and preserve natural
+        resources.
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-8 mt-12">
+        <div class="card bg-base-100 shadow-xl">
+          <div class="card-body">
+            <h3 class="card-title text-xl">Fire Monitoring & Simulation</h3>
+            <p class="text-base">
+              Real-time wildfire detection and advanced simulation models to
+              predict fire behavior and spread patterns for proactive response
+              planning.
+            </p>
           </div>
+        </div>
+
+        <div class="card bg-base-100 shadow-xl">
+          <div class="card-body">
+            <h3 class="card-title text-xl">Risk Assessment Maps</h3>
+            <p class="text-base">
+              Interactive maps identifying potential fire ignition zones based
+              on weather conditions, vegetation data, and historical fire
+              patterns.
+            </p>
+          </div>
+        </div>
+
+        <div class="card bg-base-100 shadow-xl">
+          <div class="card-body">
+            <h3 class="card-title text-xl">Volunteer Safety Tracking</h3>
+            <p class="text-base">
+              GPS-based tracking system to monitor volunteer locations in
+              dangerous zones and ensure rapid evacuation when conditions
+              deteriorate.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-12">
+        <div class="text-2xl md:text-3xl font-bold mb-6">Join Our Mission</div>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="/workshops" class="btn btn-primary btn-lg">
+            Register for Workshops
+          </a>
+          <a href="/support" class="btn btn-outline btn-lg">
+            Support the Project
+          </a>
         </div>
       </div>
     </div>

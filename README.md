@@ -1,20 +1,20 @@
 <p align="center">
     <picture>
-        <img width="420" alt="SaaS Starter Header reading: The open source, fast, and free to host SaaS template" src="https://github.com/CriticalMoments/CMSaasStarter/assets/848343/12f47617-e5be-4694-affc-23310e54b885">
+        <img width="420" alt="SaaS Starter Header reading: The open source, fast, and free to host SaaS template" src="https://github.com/dobrocity/stopfires.org/assets/848343/12f47617-e5be-4694-affc-23310e54b885">
     </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/build.yml" target="_blank"><img src="https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/build.yml/badge.svg?branch=main" alt="Built Status"></a>
-  <a href="https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/format.yml" target="_blank"><img src="https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/format.yml/badge.svg?branch=main" alt="Format Check"></a>
-  <a href="https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/linting.yml" target="_blank"><img src="https://github.com/CriticalMoments/CMSaasStarter/actions/workflows/linting.yml/badge.svg?branch=main" alt="Linting"></a>
-  <a href="https://github.com/CriticalMoments/CMSaasStarter/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-brightgreen?labelColor=32383f" alt="License"></a>
+  <a href="https://github.com/dobrocity/stopfires.org/actions/workflows/build.yml" target="_blank"><img src="https://github.com/dobrocity/stopfires.org/actions/workflows/build.yml/badge.svg?branch=main" alt="Built Status"></a>
+  <a href="https://github.com/dobrocity/stopfires.org/actions/workflows/format.yml" target="_blank"><img src="https://github.com/dobrocity/stopfires.org/actions/workflows/format.yml/badge.svg?branch=main" alt="Format Check"></a>
+  <a href="https://github.com/dobrocity/stopfires.org/actions/workflows/linting.yml" target="_blank"><img src="https://github.com/dobrocity/stopfires.org/actions/workflows/linting.yml/badge.svg?branch=main" alt="Linting"></a>
+  <a href="https://github.com/dobrocity/stopfires.org/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-brightgreen?labelColor=32383f" alt="License"></a>
 </p>
 
 <p align="center">
   <a href="https://saasstarter.work"><strong>Demo & Homepage</strong></a> •
-  <a href="https://github.com/CriticalMoments/CMSaasStarter#quick-start"><strong>Quick Start Guide</strong></a> • 
-  <a href="https://github.com/CriticalMoments/CMSaasStarter/issues"><strong>Issues</strong></a>
+  <a href="https://github.com/dobrocity/stopfires.org#quick-start"><strong>Quick Start Guide</strong></a> • 
+  <a href="https://github.com/dobrocity/stopfires.org/issues"><strong>Issues</strong></a>
 </p>
 
 <br/>
@@ -26,7 +26,7 @@
 - [Delighful Developer Experience](#tech-stack): tools you'll love working with, including SvelteKit, Tailwind, DaisyUI, Postgres, and Supabase.
 - Extensible: all the tools you need to make additional marketing pages, UI components, user dashboards, admin portals, database backends, API endpoints, and more.
 - [Hosting](#suggested-hosting-stack): Our suggested hosting stack is free to host, cheap to scale, easy to manage, and includes automatic deployments.
-- [MIT Open Source](https://github.com/CriticalMoments/CMSaasStarter/blob/main/LICENSE)
+- [MIT Open Source](https://github.com/dobrocity/stopfires.org/blob/main/LICENSE)
 - [Fully Functional Demo](https://saasstarter.work)
 - [Quick Start](#quick-start): Full docs from `git clone` to deployment.
 
@@ -44,15 +44,15 @@ See [criticalmoments.io](https://criticalmoments.io) and [getkiln.ai](https://ge
 
 <a href="https://saasstarter.work">
 <kbd>
-<img width="500" alt="homepage" src="https://github.com/CriticalMoments/CMSaasStarter/assets/848343/34944c09-df72-4ac2-9099-01d25d99911b">
+<img width="500" alt="homepage" src="https://github.com/dobrocity/stopfires.org/assets/848343/34944c09-df72-4ac2-9099-01d25d99911b">
 </kbd>
 <br>
 <kbd>
-<img width="200" alt="pricing page" src="https://github.com/CriticalMoments/CMSaasStarter/assets/848343/c3cb2ab7-3739-473e-a1fe-f82a4a31e844">
+<img width="200" alt="pricing page" src="https://github.com/dobrocity/stopfires.org/assets/848343/c3cb2ab7-3739-473e-a1fe-f82a4a31e844">
 </kbd><kbd>
-<img width="200" alt="settings page" src="https://github.com/CriticalMoments/CMSaasStarter/assets/848343/2d947c97-3cc7-4ff5-a5b1-7c8478b6f31a">
+<img width="200" alt="settings page" src="https://github.com/dobrocity/stopfires.org/assets/848343/2d947c97-3cc7-4ff5-a5b1-7c8478b6f31a">
 </kbd><kbd>
-<img width="200" alt="payments portal" src="https://github.com/CriticalMoments/CMSaasStarter/assets/848343/0c4749c3-0d29-4edc-ae87-d8a4eefea3c9">
+<img width="200" alt="payments portal" src="https://github.com/dobrocity/stopfires.org/assets/848343/0c4749c3-0d29-4edc-ae87-d8a4eefea3c9">
 </kbd>
 </a>
 
@@ -132,7 +132,7 @@ The selected tech stack creates lightning fast websites.
 
 The result is a perfect Google PageSpeed Insights score in all categories!
 
-<img width="420" alt="Screenshot 2024-01-18 at 11 31 32 AM" src="https://github.com/CriticalMoments/CMSaasStarter/assets/848343/46b5e960-2aa0-4fb5-acd7-4f84b380e1d0">
+<img width="420" alt="Screenshot 2024-01-18 at 11 31 32 AM" src="https://github.com/dobrocity/stopfires.org/assets/848343/46b5e960-2aa0-4fb5-acd7-4f84b380e1d0">
 
 # Quick Start
 
@@ -161,7 +161,7 @@ npm run dev -- --open
 
 ## Developer Tools
 
-The repo includes [CI scripts](https://aws.amazon.com/devops/continuous-integration/) designed for [GitHub Actions](https://github.com/features/actions). These confirm you don’t break your [build](https://github.com/CriticalMoments/CMSaasStarter/blob/main/.github/workflows/build.yml), you use [proper code formatting](https://github.com/CriticalMoments/CMSaasStarter/blob/main/.github/workflows/format.yml), [code linting and typechecking passes](https://github.com/CriticalMoments/CMSaasStarter/blob/main/.github/workflows/linting.yml), and even spell checking.
+The repo includes [CI scripts](https://aws.amazon.com/devops/continuous-integration/) designed for [GitHub Actions](https://github.com/features/actions). These confirm you don’t break your [build](https://github.com/dobrocity/stopfires.org/blob/main/.github/workflows/build.yml), you use [proper code formatting](https://github.com/dobrocity/stopfires.org/blob/main/.github/workflows/format.yml), [code linting and typechecking passes](https://github.com/dobrocity/stopfires.org/blob/main/.github/workflows/linting.yml), and even spell checking.
 
 ### Enabling GitHub Actions
 
@@ -329,7 +329,7 @@ The open source community is extending and improving SaasStarter!
 
 These extensions are reference implementations of commonly needed features. We don't integrate them into the main branch to keep our dependencies minimal and simplify maintenance. However, if you need them you can cherry pick into your fork/repo:
 
-- Internationalization: [branch](https://github.com/CriticalMoments/CMSaasStarter/tree/extension/internationalization), and [instructions](https://github.com/CriticalMoments/CMSaasStarter/pull/49)
+- Internationalization: [branch](https://github.com/dobrocity/stopfires.org/tree/extension/internationalization), and [instructions](https://github.com/dobrocity/stopfires.org/pull/49)
 - Fork using Shadcn/ui instead of DaisyUI: [kizivat/saas-kit](https://github.com/kizivat/saas-kit)
 
 ### Icons Credits
