@@ -205,7 +205,7 @@
             <p class="text-sm">
               {feature.description}
             </p>
-            {#if feature.link}
+            <!-- {#if feature.link}
               <a
                 href={feature.link}
                 class="pb-4"
@@ -216,7 +216,7 @@
                   >{feature.linkText ? feature.linkText : "Try It"}</button
                 >
               </a>
-            {/if}
+            {/if} -->
           </div>
         </div>
       {/each}
