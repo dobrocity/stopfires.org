@@ -110,177 +110,190 @@
   {@html jsonldScript}
 </svelte:head>
 
-<div class="hero min-h-[60vh]">
-  <div class="hero-content text-center py-12">
-    <div class="max-w-xl">
-      <div
-        class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent mb-3 md:mb-7 pb-1"
-      >
-        Stop Fires
+<header>
+  <section class="hero min-h-[60vh]">
+    <div class="hero-content text-center py-12">
+      <div class="max-w-xl">
+        <h1
+          class="text-4xl md:text-6xl font-bold px-2"
+          style="line-height: 1.2;"
+        >
+          Advanced
+          <span
+            class="underline decoration-secondary decoration-4 md:decoration-[6px]"
+            >wildfire&nbsp;detection</span
+          >,
+          <span
+            class="underline decoration-secondary decoration-4 md:decoration-[6px]"
+            >response</span
+          >, and
+          <span
+            class="underline decoration-secondary decoration-4 md:decoration-[6px]"
+            >prevention</span
+          >
+          <span> platform</span>
+        </h1>
+        <div class="mt-6 md:mt-10 text-sm md:text-lg">
+          Built with AI,
+          <a
+            href="https://www.openstreetmap.org"
+            class="link font-bold"
+            target="_blank">OpenStreetMap</a
+          >, and various coding tools
+        </div>
+        <div
+          class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center"
+        >
+          <a href="https://github.com/dobrocity/stopfires.org">
+            <button class="btn btn-primary px-6">★ us on Github</button>
+          </a>
+          <a href="/contact_us">
+            <button class="btn btn-outline btn-primary px-6">Contact us</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</header>
+
+<main>
+  <section class="min-h-[60vh]">
+    <div class="pt-20 pb-8 px-7">
+      <div class="max-w-lg mx-auto text-center">
+        <h2
+          class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent pb-2"
+        >
+          Explore the Features
+        </h2>
+        <div class="mt-4 text-xl font-bold">
+          And learn more on our
+          <span
+            class="underline decoration-secondary decoration-[3px] md:decoration-[4px]"
+          >
+            workshops
+          </span>
+        </div>
       </div>
 
       <div
-        class="text-4xl md:text-6xl font-bold px-2"
-        style="line-height: 1.2;"
+        class="flex gap-6 mt-12 max-w-[1064px] mx-auto place-content-center flex-wrap"
       >
-        Advanced
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >wildfire&nbsp;detection</span
-        >,
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >response</span
-        >, and
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >prevention</span
-        >
-        <span> platform</span>
-      </div>
-      <div class="mt-6 md:mt-10 text-sm md:text-lg">
-        Built with AI,
-        <a
-          href="https://www.openstreetmap.org"
-          class="link font-bold"
-          target="_blank">OpenStreetMap</a
-        >, and various coding tools
-      </div>
-      <div
-        class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center"
-      >
-        <a href="https://github.com/dobrocity/stopfires.org">
-          <button class="btn btn-primary px-6">★ us on Github</button>
-        </a>
-        <a href="/contact_us">
-          <button class="btn btn-outline btn-primary px-6">Contact us</button>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="min-h-[60vh]">
-  <div class="pt-20 pb-8 px-7">
-    <div class="max-w-lg mx-auto text-center">
-      <div
-        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent pb-2"
-      >
-        Explore the Features
-      </div>
-      <div class="mt-4 text-xl font-bold">
-        And learn more on our
-        <span
-          class="underline decoration-secondary decoration-[3px] md:decoration-[4px]"
-        >
-          workshops
-        </span>
-      </div>
-    </div>
-
-    <div
-      class="flex gap-6 mt-12 max-w-[1064px] mx-auto place-content-center flex-wrap"
-    >
-      {#each features as feature}
-        <div class="card bg-white w-[270px] min-h-[300px] flex-none shadow-xl">
-          <div class="card-body items-center text-center p-[24px] pt-[32px]">
-            <div>
-              <svg
-                width="50px"
-                height="50px"
-                class="mb-2 mt-1"
-                viewBox="0 0 24 24"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <!-- eslint-disable-next-line svelte/no-at-html-tags -->
-                {@html feature.svgContent}
-              </svg>
-            </div>
-            <h2 class="card-title">
-              {feature.name}
-            </h2>
-            <p class="text-sm">
-              {feature.description}
-            </p>
-            <!-- {#if feature.link}
-              <a
-                href={feature.link}
-                class="pb-4"
-                target={feature.newPage ? "_blank" : ""}
-              >
-                <button
-                  class="btn btn-xs btn-outline rounded-full btn-primary min-w-[100px]"
-                  >{feature.linkText ? feature.linkText : "Try It"}</button
+        {#each features as feature}
+          <div
+            class="card bg-white w-[270px] min-h-[300px] flex-none shadow-xl"
+          >
+            <div class="card-body items-center text-center p-[24px] pt-[32px]">
+              <div>
+                <svg
+                  width="50px"
+                  height="50px"
+                  class="mb-2 mt-1"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
                 >
-              </a>
-            {/if} -->
+                  <!-- eslint-disable-next-line svelte/no-at-html-tags -->
+                  {@html feature.svgContent}
+                </svg>
+              </div>
+              <h3 class="card-title">
+                {feature.name}
+              </h3>
+              <p class="text-sm">
+                {feature.description}
+              </p>
+              <!-- {#if feature.link}
+                  <a
+                    href={feature.link}
+                    class="pb-4"
+                    target={feature.newPage ? "_blank" : ""}
+                  >
+                    <button
+                      class="btn btn-xs btn-outline rounded-full btn-primary min-w-[100px]"
+                      >{feature.linkText ? feature.linkText : "Try It"}</button
+                    >
+                  </a>
+                {/if} -->
+            </div>
           </div>
-        </div>
-      {/each}
-    </div>
-  </div>
-</div>
-<div class="hero min-h-[60vh] mt-12">
-  <div class="hero-content text-center pb-16 pt-4 px-4">
-    <div class="max-w-4xl">
-      <div
-        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent mt-4 pb-2"
-      >
-        About the Project
-      </div>
-      <div class="text-lg md:text-xl mt-6 mb-8">
-        Our mission is to revolutionize wildfire management through advanced
-        monitoring systems, volunteer safety protocols, and seamless integration
-        with firefighting services to protect communities and preserve natural
-        resources.
-      </div>
-
-      <div class="grid md:grid-cols-3 gap-8 mt-12">
-        <div class="card bg-base-100 shadow-xl">
-          <div class="card-body">
-            <h3 class="card-title text-xl">Fire Monitoring & Simulation</h3>
-            <p class="text-base">
-              Real-time wildfire detection and advanced simulation models to
-              predict fire behavior and spread patterns for proactive response
-              planning.
-            </p>
-          </div>
-        </div>
-
-        <div class="card bg-base-100 shadow-xl">
-          <div class="card-body">
-            <h3 class="card-title text-xl">Risk Assessment Maps</h3>
-            <p class="text-base">
-              Interactive maps identifying potential fire ignition zones based
-              on weather conditions, vegetation data, and historical fire
-              patterns.
-            </p>
-          </div>
-        </div>
-
-        <div class="card bg-base-100 shadow-xl">
-          <div class="card-body">
-            <h3 class="card-title text-xl">Volunteer Safety Tracking</h3>
-            <p class="text-base">
-              GPS-based tracking system to monitor volunteer locations in
-              dangerous zones and ensure rapid evacuation when conditions
-              deteriorate.
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <div class="mt-12">
-        <div class="text-2xl md:text-3xl font-bold mb-6">Join Our Mission</div>
-        <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="/contact_us" class="btn btn-primary btn-lg">
-            Register for Workshops
-          </a>
-          <a href="/contact_us" class="btn btn-outline btn-lg">
-            Support the Project
-          </a>
-        </div>
+        {/each}
       </div>
     </div>
-  </div>
-</div>
+  </section>
+
+  <section class="hero min-h-[60vh] mt-12">
+    <div class="hero-content text-center pb-16 pt-4 px-4">
+      <div class="max-w-4xl">
+        <h2
+          class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent mt-4 pb-2"
+        >
+          About the Project
+        </h2>
+        <div class="text-lg md:text-xl mt-6 mb-8">
+          Our mission is to revolutionize wildfire management through advanced
+          monitoring systems, volunteer safety protocols, and seamless
+          integration with firefighting services to protect communities and
+          preserve natural resources.
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8 mt-12">
+          <div class="card bg-base-100 shadow-xl">
+            <div class="card-body">
+              <h3 class="card-title text-xl">Fire Monitoring & Simulation</h3>
+              <p class="text-base">
+                Real-time wildfire detection and advanced simulation models to
+                predict fire behavior and spread patterns for proactive response
+                planning.
+              </p>
+            </div>
+          </div>
+
+          <div class="card bg-base-100 shadow-xl">
+            <div class="card-body">
+              <h3 class="card-title text-xl">Risk Assessment Maps</h3>
+              <p class="text-base">
+                Interactive maps identifying potential fire ignition zones based
+                on weather conditions, vegetation data, and historical fire
+                patterns.
+              </p>
+            </div>
+          </div>
+
+          <div class="card bg-base-100 shadow-xl">
+            <div class="card-body">
+              <h3 class="card-title text-xl">Volunteer Safety Tracking</h3>
+              <p class="text-base">
+                GPS-based tracking system to monitor volunteer locations in
+                dangerous zones and ensure rapid evacuation when conditions
+                deteriorate.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-12">
+          <h3 class="text-2xl md:text-3xl font-bold mb-6">Join Our Mission</h3>
+          <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="/contact_us" class="btn btn-primary btn-lg">
+              Register for Workshops
+            </a>
+            <a href="/contact_us" class="btn btn-outline btn-lg">
+              Support the Project
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <section class="text-center py-8">
+    <div class="max-w-4xl mx-auto">
+      <p class="text-sm text-gray-600">
+        © 2024 Stop Fires. All rights reserved. Protecting communities through
+        advanced wildfire management.
+      </p>
+    </div>
+  </section>
+</footer>
