@@ -277,7 +277,11 @@
             <a href="/contact_us" class="btn btn-primary btn-lg">
               Register for Workshops
             </a>
-            <a href="/contact_us" class="btn btn-outline btn-lg">
+            <a
+              href="https://www.indiegogo.com/projects/stopfires-app-against-wildfires/"
+              class="btn btn-outline btn-lg"
+              target="_blank"
+            >
               Support the Project
             </a>
           </div>
