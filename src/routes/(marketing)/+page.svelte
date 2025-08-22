@@ -286,14 +286,3 @@
     </div>
   </section>
 </main>
-
-<footer>
-  <section class="text-center py-8">
-    <div class="max-w-4xl mx-auto">
-      <p class="text-sm text-gray-600">
-        © 2024 Stop Fires. All rights reserved. Protecting communities through
-        advanced wildfire management.
-      </p>
-    </div>
-  </section>
-</footer>
