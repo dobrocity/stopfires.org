@@ -64,6 +64,7 @@
         <li><a href="https://app.stopfires.org">App</a></li>
         <li><a href="/contact_us">Contact us</a></li>
         <li><a href="/search">Search</a></li>
+        <li><a href="/privacy_policy">Privacy Policy</a></li>
         <li>
           <a
             href="https://github.com/dobrocity/stopfires.org"
@@ -96,6 +97,7 @@
         class="link link-hover my-1"
         href="https://github.com/dobrocity/stopfires.org">Github</a
       >
+      <a class="link link-hover my-1" href="/privacy_policy">Privacy Policy</a>
     </nav>
     <aside>
       <span class="footer-title opacity-80">Contribute</span>
