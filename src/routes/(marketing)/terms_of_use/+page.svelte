@@ -421,7 +421,8 @@
             <h4 class="font-medium text-gray-900 mb-2">Email</h4>
             <a
               href="mailto:contact@dobro.city"
-              class="text-orange-600 hover:text-orange-700">legal@dobro.city</a
+              class="text-orange-600 hover:text-orange-700"
+              >contact@dobro.city</a
             >
           </div>
           <div>
