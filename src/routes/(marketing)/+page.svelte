@@ -278,7 +278,7 @@
               Register for Workshops
             </a>
             <a
-              href="https://www.indiegogo.com/projects/stopfires-app-against-wildfires/"
+              href="https://crowd.mtla.me/stopfires"
               class="btn btn-outline btn-lg"
               target="_blank"
             >
